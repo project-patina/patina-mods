@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/project-patina/patina/main/public/icon.svg" width="72" alt="Patina" />
+
 # Patina mods
 
 Official mods for the Patina Rust client, shown in the launcher's "Patina mods" tab.
